@@ -1,6 +1,4 @@
-# ultisnips-config.vim
-My UltiSnips configuration deployable with Vundle/Pathogen.
+# disable-cursor-keys.vim
+Turns off the curosor keys when outside 'insert' mode.
 
-## Requirements
-
-* [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+LEARN THE MOVEMENT BINDINGS!
